@@ -8,6 +8,6 @@ void main() {
 		contatore++;
 		cout << contatore << endl;
 	}
-	cout<<"FINE."<<endl;
+	cout<<"Il ciclo è finito"<<endl;
 	system("pause");
 }
