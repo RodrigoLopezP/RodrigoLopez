@@ -7,5 +7,6 @@ void main() {
 		contatore++;
 		cout << contatore << endl;
 	}
+	cout<<"FINE."<<endl;
 	system("pause");
 }
